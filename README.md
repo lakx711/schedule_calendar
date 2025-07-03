@@ -1,6 +1,6 @@
 # Schedule Calendar 🗓️
 
-A modern, visually pleasing calendar and reminder app built with Python. Developed as my first task as a Python Developer Intern at @ Pinnacle Labs Pvt Ltd.
+A modern, visually pleasing calendar and reminder app built with Python. Developed as my first task as a Python Developer Intern at @PinnacleLabs Pvt Ltd.
 
 ## Features
 - Dark theme for a sleek look 🌑
